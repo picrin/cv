@@ -30,7 +30,7 @@
 \LoadClass[10pt]{scrartcl}
 
 \setcounter{secnumdepth}{-1}
-\RequirePackage[hmargin=1.25cm,vmargin=1.25cm,twocolumn,columnsep=1.25cm]{geometry}
+\RequirePackage[hmargin=2.00cm,vmargin=1.25cm,twocolumn,columnsep=1.25cm]{geometry}
 \RequirePackage{bookman,etoolbox,hyperref,marvosym,needspace,tabularx,xcolor}
 %\usepackage[document]{ragged2e}
 % Capitalize words of at least a minimum length (default to 3 chars).
@@ -130,9 +130,8 @@
     \renewcommand\item[4]{%
 	\inskip%
 	{\raggedright\Large ##1\par\smallskip}
-	{\raggedright\it ##2\par\smallskip}
+	{\raggedright\it ##2\par\medskip}
         { ##3 \par\smallskip}
-	{\raggedleft {\href{http://##4}{$\mathlarger{\mathlarger{\xrightarrow{view\ on\ github}}}$\hspace{1 pt}\biggithub}}\par}
 	\renewcommand\inskip{\medskip}}
     }
     %{\newpage}
@@ -158,7 +157,7 @@
     \renewcommand\item[2]{%
 	\inskip
 	{
-		\raggedright\sc ##1\par\smallskip
+		\raggedright\sc{##1}\par\smallskip
 	}
 	{	
 		\setlength{\leftskip}{15 pt}
