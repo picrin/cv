@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2014.6.2)  12 APR 2015 21:29
+This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2014.6.2)  12 APR 2015 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -812,6 +812,11 @@ Underfull \hbox (badness 1033) in paragraph at lines 63--63
 
 
 ]
+Underfull \hbox (badness 1147) in paragraph at lines 69--69
+ \OT1/pbk/l/n/10 tech-nolo-gies be-ing pre-ferred by var-i-ous
+ []
+
+
 Underfull \hbox (badness 1292) in paragraph at lines 71--71
  [][]\OT1/pbk/l/n/10 hackathons[][], one in Oc-to-ber 2013 and
  []
@@ -854,7 +859,7 @@ Package rerunfilecheck Info: File `IvaBabukova.out' has not changed.
 Here is how much of TeX's memory you used:
  17899 strings out of 495034
  311896 string characters out of 6181678
- 443736 words of memory out of 5000000
+ 443729 words of memory out of 5000000
  20792 multiletter control sequences out of 15000+600000
  13156 words of font info for 33 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
@@ -864,10 +869,10 @@ e/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/book
 man/ubkli8a.pfb>
-Output written on IvaBabukova.pdf (2 pages, 58606 bytes).
+Output written on IvaBabukova.pdf (2 pages, 58738 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 60 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  8 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
