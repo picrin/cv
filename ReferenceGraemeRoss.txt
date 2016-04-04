@@ -1,0 +1,7 @@
+I was Adam's line manager for the last 6 months of his 12 month period at SAS Scotland R&D. During his internship Adam was involved in a daily operation of the Build & Deploy team for a large software product developed as an international collaboration of several Research and Development teams within SAS.
+
+Adam's main responsibility was maintenance of the version control (git), continuous integration (jenkins) and build (gradle) of a large software product developed in Java & Javascript, as well as software development in Java, Groovy and Python. 
+
+I remember Adam as very enthusiastic and passionate collaborator, able to express himself clearly, willing to face challenges, and a good team-worker.
+
+After several weeks Adam gained my trust and earned administrative privileges, which allowed him to perform mission-critical tasks on our infrastructure. Adam never abused this trust and I'd like to see him return to the company after he finishes his studies.
